@@ -19,7 +19,7 @@
 </p>
 
 - 💻 Junior .NET developer at Ideo Software
-- 🔭 I’m currently working on **Chess playing website**
+- 🔭 I’m currently working on [Chess web app](https://github.com/Kacperacy/Chess)
 - 🌱 I’m currently learning **Vue.js, TS, Tailwind**
 - 💬 Ask me about **.NET, ASP.NET, SQL**
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kacper-maciolek/)
