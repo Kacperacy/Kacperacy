@@ -18,7 +18,6 @@
   </strong>
 </p>
 
-- 💻 Junior .NET developer at Ideo Software
 - 🔭 I’m currently working on [Chess web app](https://kacperacy.github.io/Chess/)
     - [Frontend](https://github.com/Kacperacy/Chess)
     - [Backend](https://github.com/Kacperacy/ChessAPI)
