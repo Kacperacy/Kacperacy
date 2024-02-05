@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on [Chess web app](https://kacperacy.github.io/Chess/)
     - [Frontend](https://github.com/Kacperacy/Chess)
     - [Backend](https://github.com/Kacperacy/ChessAPI)
-- 🌱 I’m currently learning **Vue.js, TS, Tailwind**
+- 🌱 I’m currently learning **Rust, React.js**
 - 💬 Ask me about **.NET, ASP.NET, SQL**
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kacper-maciolek/)
 
