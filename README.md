@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,ts,js,azure,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongo,react,vue,ts,js,tailwind,jenkins,azure,docker,git" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   </strong>
 </p>
 
-- 🌱 I’m currently learning **Rust, React.js**
+- 🌱 I’m currently learning **Rust, Go**
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kacper-maciolek/)
 
 </br>
